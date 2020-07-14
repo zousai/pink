@@ -1,9 +1,9 @@
 caption: 动态表格 每行一个tiddler 列是字段
 created: 20200409142456648
-modified: 20200411091356520
+modified: 20200416141219913
 tags: $:/tags/TextEditor/Snippet [[Table Macros]]
 title: 文本片段/动态表格RowTable
-tmap.id: 79390a7d-b1b9-404c-bb06-6ab7a99bc10c
+tmap.id: 3d4d56db-9198-48e6-9fee-9644257b0d30
 type: text/vnd.tiddlywiki
 
 <<RowTable "[tag[Column Data]]" "field-filter">>
