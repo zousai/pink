@@ -1,0 +1,29 @@
+created: 20200715024146341
+modified: 20200715045551568
+tags: 
+title: [[GAMT]]SC错题
+tmap.id: a19ffddd-56c0-4e3f-9dea-8ca1f4221537
+type: text/vnd.tiddlywiki
+
+[[错题]]
+1、When drive-ins were at the height of their popularity in the late 1950s, some 4,000 existed in the United States, but today there are less than one quarter that many.
+① there are less than one-quarter that many
+② there are fewer than one-quarter as many (√)
+③ there are fewer than one-quarter of that amount
+④ the number is less than one-quarter the amount
+⑤ it is less than one-quarter of that amount
+① 看起来好像真的很复杂，但是你只需要透过⼲扰去找“信号”：可数只能对⽐可数，不可数只能对⽐不可数
+''① less(不可数) - many(可数)
+② fewer(可数) - amount(不可数)
+③ number(可数) - amount(不可数)''
+② 看⻅代词就怀疑：就⼀个it，你更要怀疑了——全⽂就height⼀个单数名词，总不能指height吧
+————————————————————————————————————————————————————————————————————————————————
+① drive-ins谁也不认识，但“were - 复数”——可数
+② drive-ins - ''4,000 (drive-ins)：省略相同主语，不然重复累赘''——只是谁⻅过数字还带省略名词的…不带这么玩的…
+① fewer - 4,000 (drive-ins)：这才看出来是可数
+③ ''as many = as many (as some 4,000 existed in the United States)：因为对⽐的后半部分已经出现过了，必须省略，不然重复累赘''——⼜玩我们…
+④ that many： many只是个形容词， that number(考过的哦)才是这里需要的
+⑤ some(修饰数字：⼤约多少)：有没有它，对做题没有任何区别
+
+[[语言现象]]
+动名词不能和名词平⾏； 
