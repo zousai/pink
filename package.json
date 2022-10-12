@@ -29,7 +29,7 @@
   },
   "optionalDependencies": {
     "node-linux": "0.1.12",
-    "node-mac": "0.1.8",
+    "node-mac": "1.0.1",
     "node-windows": "1.0.0-beta.1"
   }
 }
